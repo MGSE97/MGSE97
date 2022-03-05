@@ -61,9 +61,5 @@ Fell free to contact me, if you need something. I wont bite usually. 🙂
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MGSE97&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGSE97" alt="Top Langs" />
-</a>
+[![Rank](https://github-readme-stats.vercel.app/api?username=MGSE97&show_icons=true&count_private=true&include_all_commits=true&title_color=d59000&icon_color=d59000&text_color=c9d1d9&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGSE97&title_color=d59000&icon_color=d59000&text_color=c9d1d9&bg_color=0d1117&hide_border=true&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
