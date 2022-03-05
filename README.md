@@ -1,13 +1,17 @@
-<h1 align="center"> 🖖 Hello There, I`m MGSE </h1>
+<h1 align="center"> 🖖 Hello There, I'm MGSE </h1>
 
-Welcome to my github, enjoy your visit.
+Welcome to my GitHub profile. Enjoy your visit here, if you are brave enough.
 
-- I`m mainly full-stack website developer in ASP.NET & ASP.NET Core.
-- Other projects are either ideas or for fun
-- Some of them are school projects
-- And there are few i don't want to see again
+🎯 I'm mainly full-stack web developer<br/>
+🌶 I worked with **ASP.NET** & **ASP.NET Core** for 4 years and I don't plan to stop<br/>
+🛰 But currently I'm exploring a wast space of **Express.js** & **React**<br/>
 
-Fell free to contact me, if you need something. I wont bite usually. 🙂
+🥋 These are **personal projects** (usually ideas or for fun)<br/>
+📚 Most of them are school projects (graphics, machine learning, ... the fun stuff)<br/>
+🖋 I'm slowly improving documentation of them<br/>
+🥊 And there are few i don't want to see again<br/>
+
+📧 Fell free to contact me, if you need something. I wont bite usually. 🙂
 
 ### Language's & tools:
 
