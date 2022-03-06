@@ -56,10 +56,8 @@ Ranks:
 
 ---
 
-[< Back to profile](../README.md)
-
----
-
-<p align="center">
-    <b><a href="https://github.com/MGSE97" target="_blank">MGSE97</a> ☕ 2016 ... 2022</b>
-</p>
+<h6 align="center">
+    
+[< Languages](Languages.md) &nbsp;&nbsp; • &nbsp;&nbsp; 
+<b><a href="https://github.com/MGSE97" target="_blank">MGSE97</a> ☕ 2016 ... 2022</b> &nbsp;&nbsp; • &nbsp;&nbsp; [Software >](Software.md)
+</h6>

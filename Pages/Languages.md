@@ -55,10 +55,7 @@ Usage - first tried n years back / used for work projects n years (this doesn't 
 
 ---
 
-[< Back to profile](../README.md)
-
----
-
-<p align="center">
-    <b><a href="https://github.com/MGSE97" target="_blank">MGSE97</a> ☕ 2016 ... 2022</b>
-</p>
+<h6 align="center">
+    
+[< Back to profile](../README.md) &nbsp;&nbsp; • &nbsp;&nbsp; <b><a href="https://github.com/MGSE97" target="_blank">MGSE97</a> ☕ 2016 ... 2022</b> &nbsp;&nbsp; • &nbsp;&nbsp; [Tech Stack >](TechStack.md)
+</h6>

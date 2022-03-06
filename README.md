@@ -25,6 +25,6 @@
 
 ---
 
-<p align="center">
+<h6 align="center">
     <b><a href="https://github.com/MGSE97" target="_blank">MGSE97</a> ☕ 2016 ... 2022</b>
-</p>
+</h6>
