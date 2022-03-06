@@ -58,7 +58,7 @@ Usage - first tried n years back / used for work projects n years (this doesn't 
 <h6 align="center">
     
  • &nbsp; [Profile](../README.md) &nbsp; •>
-[Languages](Languages.md) <• &nbsp;
+Languages <• &nbsp;
 [Tech Stack](TechStack.md) &nbsp; • &nbsp;
 [Software](Software.md) &nbsp; • &nbsp; 
 [Operating Systems](Systems.md) &nbsp; • 

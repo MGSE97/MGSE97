@@ -63,7 +63,7 @@ Ranks:
 [Languages](Languages.md) &nbsp; • &nbsp;
 [Tech Stack](TechStack.md) &nbsp; • &nbsp;
 [Software](Software.md) &nbsp; •> 
-[Operating Systems](Systems.md) <• 
+Operating Systems <• 
 </h6>
 <h6 align="center">
     

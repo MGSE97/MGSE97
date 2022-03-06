@@ -27,7 +27,7 @@
 
 <h6 align="center">
     
- •> [Profile](README.md) <• &nbsp;
+ •> Profile <• &nbsp;
 [Languages](Pages/Languages.md) &nbsp; • &nbsp;
 [Tech Stack](Pages/TechStack.md) &nbsp; • &nbsp;
 [Software](Pages/Software.md) &nbsp; • &nbsp; 

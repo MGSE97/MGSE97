@@ -60,7 +60,7 @@ Ranks:
     
  • &nbsp; [Profile](../README.md) &nbsp; • &nbsp;
 [Languages](Languages.md) &nbsp; •>
-[Tech Stack](TechStack.md) <• &nbsp;
+Tech Stack <• &nbsp;
 [Software](Software.md) &nbsp; • &nbsp; 
 [Operating Systems](Systems.md) &nbsp; • 
 </h6>
