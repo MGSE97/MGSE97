@@ -2,9 +2,9 @@
 
 ---
 
-# Tech stack
+# Tech Stack
 
-My tech stack technologies, and my opinions on them.
+My Tech Stack, and my opinions on them.
 
 Ranks:
 
@@ -53,3 +53,13 @@ Ranks:
 |      | - MySQL            | A    |          |            |
 |      | - Postgres         | A    |          |            |
 |      | - Firebase         | B    |          |            |
+
+---
+
+[< Back to profile](../README.md)
+
+---
+
+<p align="center">
+    <b><a href="https://github.com/MGSE97" target="_blank">MGSE97</a> ☕ 2016 ... 2022</b>
+</p>

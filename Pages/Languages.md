@@ -52,3 +52,13 @@ Usage - first tried n years back / used for work projects n years (this doesn't 
 |      | OstraJava    | X    |  4 / 0 | More funny Czech version of Java. |
 |      | Bainfuck     | X    |  8 / 0 | Best language you won't understand, but you could write an interpreter for. |
 |      | Whitespace   | X    |  8 / 0 | Best language you can't read, but you could write an interpreter for. |
+
+---
+
+[< Back to profile](../README.md)
+
+---
+
+<p align="center">
+    <b><a href="https://github.com/MGSE97" target="_blank">MGSE97</a> ☕ 2016 ... 2022</b>
+</p>

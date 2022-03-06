@@ -54,3 +54,13 @@ Ranks:
 |      |                |      |          |            |
 |      | iOS            | C    | Tried    |            |
 |      | - 10           | C    |          |            |
+
+---
+
+[< Back to profile](../README.md)
+
+---
+
+<p align="center">
+    <b><a href="https://github.com/MGSE97" target="_blank">MGSE97</a> ☕ 2016 ... 2022</b>
+</p>
