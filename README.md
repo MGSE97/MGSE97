@@ -27,11 +27,11 @@
 
 <h6 align="center">
     
- •> [Profile](../README.md) <• &nbsp;
-[Languages](Languages.md) &nbsp; • &nbsp;
-[Tech Stack](TechStack.md) &nbsp; • &nbsp;
-[Software](Software.md) &nbsp; • &nbsp; 
-[Operating Systems](Systems.md) &nbsp; • 
+ •> [Profile](README.md) <• &nbsp;
+[Languages](Pages/Languages.md) &nbsp; • &nbsp;
+[Tech Stack](Pages/TechStack.md) &nbsp; • &nbsp;
+[Software](Pages/Software.md) &nbsp; • &nbsp; 
+[Operating Systems](Pages/Systems.md) &nbsp; • 
 </h6>
 <h6 align="center">
     <b><a href="https://github.com/MGSE97" target="_blank">MGSE97</a> ☕ 2016 ... 2022</b>
