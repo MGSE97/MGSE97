@@ -50,6 +50,14 @@ Ranks:
 
 <h6 align="center">
     
+ • &nbsp; [Profile](../README.md) &nbsp; • &nbsp;
+[Languages](Languages.md) &nbsp; • &nbsp;
+[Tech Stack](TechStack.md) &nbsp; •>
+[Software](Software.md) <• &nbsp; 
+[Operating Systems](Systems.md) &nbsp; • 
+</h6>
+<h6 align="center">
+    
 [< Tech Stack](TechStack.md) &nbsp;&nbsp; • &nbsp;&nbsp; 
 <b><a href="https://github.com/MGSE97" target="_blank">MGSE97</a> ☕ 2016 ... 2022</b> &nbsp;&nbsp; • &nbsp;&nbsp; [Operating Systems >](Systems.md)
 </h6>
