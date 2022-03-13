@@ -21,7 +21,7 @@ Ranks:
 
 | Icon | Tool / Version     | Rank | Usage    | My opinion |
 |:----:|:-------------------|:----:|:--------:|------------|
-|      | Visual Studio      | B    |          |            |
+| ![Visual Studio](../Icons/vs.svg) | Visual Studio      | B    |          |            |
 |      | - 2010             | B    |          |            |
 |      | - 2012             | B    |          |            |
 |      | - 2015             | A    |          |            |
@@ -29,11 +29,11 @@ Ranks:
 |      | - 2019             | C    |          |            |
 |      | - 2022             | S    |          |            |
 |      |                    |      |          |            |
-|      | Visual Studio Code | A    |          |            |
+| ![Visual Studio Code](../Icons/vsc.svg) | Visual Studio Code | A    |          |            |
 |      | LINQPad            | S    |          |            |
 |      | SSMS               | B    |          |            |
 |      |                    |      |          |            |
-|      | Jetbrains          | A    |          |            |
+| ![Jetbrains](../Icons/jetbrains.svg) | Jetbrains          | A    |          |            |
 |      | - Resharper        | A    |          |            |
 |      | - Rider            | B    |          |            |
 |      | - Fleet            | C    |          |            |
@@ -41,7 +41,7 @@ Ranks:
 |      | - Webstorm         | B    |          |            |
 |      | - PyCharm          | B    |          |            |
 |      |                    |      |          |            |
-|      | Git                | S    |          |            |
+| ![Git](../Icons/git.svg) | Git                | S    |          |            |
 |      | - GitHub           | S    |          |            |
 |      | - GitLab           | A    |          |            |
 |      | - BitBucket        | C    |          |            |

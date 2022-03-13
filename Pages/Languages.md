@@ -22,7 +22,7 @@ Usage - first tried n years back / used for work projects n years (this doesn't 
 
 ---
 
-| Icon | Language     | Rank | Usage  | My opinion |
+| Icon[^1] | Language     | Rank | Usage  | My opinion |
 |:----:|--------------|:----:|-------:|------------|
 | ![CSharp](../Icons/csharp.svg) | C# | S    | 12 / 4 | Language I like ♥ to use the most. It can do almost anything these days.<br/>Only think that I wouldn't recommend it for, is dynamic types and handling of them. |
 | ![TS](../Icons/ts.svg) | TS | S    |  3 / 3 | The better version of JS.<br/>You will spend most time trying to match types instead of debugging. |
@@ -49,9 +49,11 @@ Usage - first tried n years back / used for work projects n years (this doesn't 
 |      | VBS          | D    | 15 / 0 | Alternative to batch scripts on Windows, that sometimes could do more.<br/>I'm still searching for use case of it, except of pranking someone. |
 |      | LaTex        | D    |  4 / 0 | That painful language, you need to get CS degree, write some useful documentation or get rid of MS Word madness. |
 | ![Java](../Icons/java.svg)     | Java         | D    |  4 / 0 | Getter, setter hell and in some ways overcomplicated language.<br/>Was the go for multiplatform applications, but these days I would rather use modern ones. |
-|      | OSTRAJava    | X    |  4 / 0 | More funny Czech version of Java. |
+|      | OSTRAJava    | X    |  4 / 0 | Funny Czech version of Java. |
 |      | Bainfuck     | X    |  8 / 0 | Best language you won't understand, but you could write an interpreter for. |
 |      | Whitespace   | X    |  8 / 0 | Best language you can't read, but you could write an interpreter for. |
+
+[^1]: Icons from [https://devicon.dev/](https://devicon.dev/)
 
 ---
 

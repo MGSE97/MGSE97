@@ -21,7 +21,7 @@ Ranks:
 
 | Icon | Type / Version | Rank | Usage    | My opinion |
 |:----:|:---------------|:----:|:--------:|------------|
-|      | Windows        | B    | Everyday |            |
+| ![Windows](../Icons/win.svg) | Windows        | B    | Everyday |            |
 |      | - XP           | S    |          |            |
 |      | - Vista        | D    |          |            |
 |      | - 7            | S    |          |            |
@@ -30,7 +30,7 @@ Ranks:
 |      | - 10           | A    |          |            |
 |      | - 11           | C    |          |            |
 |      |                |      |          |            |
-|      | Linux          | B    | Servers  |            |
+| ![Linux](../Icons/linux.svg) | Linux          | B    | Servers  |            |
 |      | - Debian       | S    |          |            |
 |      | - Alpine       | A    |          |            |
 |      | - Mint         | B    |          |            |
@@ -40,10 +40,10 @@ Ranks:
 |      | - Parrot OS    | S    |          |            |
 |      | - Raspbian     | B    |          |            |
 |      |                |      |          |            |
-|      | MacOS          | B    | At work  |            |
+| ![MacOS](../Icons/apple.svg) | MacOS          | B    | At work  |            |
 |      | - 11 Big Sur   | B    |          |            |
 |      |                |      |          |            |
-|      | Android        | B    | Everyday |            |
+| ![Android](../Icons/droid.svg) | Android        | B    | Everyday |            |
 |      | - 2.*          | C    |          |            |
 |      | - 3.*          | C    |          |            |
 |      | - 4.*          | B    |          |            |
@@ -52,7 +52,7 @@ Ranks:
 |      | - 11.*         | A    |          |            |
 |      | - 12.*         | A    |          |            |
 |      |                |      |          |            |
-|      | iOS            | C    | Tried    |            |
+| ![iOS](../Icons/apple.svg) | iOS            | C    | Tried    |            |
 |      | - 10           | C    |          |            |
 
 ---
