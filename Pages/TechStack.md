@@ -19,7 +19,7 @@ Ranks:
 
 ---
 
-| Icon | Group / Technology | Rank | Usage    | My opinion |
+| Icon[^1] | Group / Technology | Rank | Usage    | My opinion |
 |:----:|:-------------------|:----:|:--------:|------------|
 |      | .Net               | S    |          |            |
 |      | - ASP .NET         | A    |          |            |
@@ -53,6 +53,8 @@ Ranks:
 |      | - MySQL            | A    |          |            |
 |      | - Postgres         | A    |          |            |
 |      | - Firebase         | B    |          |            |
+
+[^1]: Icons from [https://devicon.dev/](https://devicon.dev/)
 
 ---
 

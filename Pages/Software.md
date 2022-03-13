@@ -19,32 +19,31 @@ Ranks:
 
 ---
 
-| Icon | Tool / Version     | Rank | Usage    | My opinion |
+| Icon[^1] | Tool / Version     | Rank | Usage    | My opinion |
 |:----:|:-------------------|:----:|:--------:|------------|
-| ![Visual Studio](../Icons/vs.svg) | Visual Studio      | B    |          |            |
+| ![Visual Studio](../Icons/vs.svg) | Visual Studio | B |||
 |      | - 2010             | B    |          |            |
 |      | - 2012             | B    |          |            |
 |      | - 2015             | A    |          |            |
 |      | - 2017             | A    |          |            |
 |      | - 2019             | C    |          |            |
 |      | - 2022             | S    |          |            |
-|      |                    |      |          |            |
-| ![Visual Studio Code](../Icons/vsc.svg) | Visual Studio Code | A    |          |            |
+| ![Visual Studio Code](../Icons/vsc.svg) | Visual Studio Code | A |||
 |      | LINQPad            | S    |          |            |
 |      | SSMS               | B    |          |            |
-|      |                    |      |          |            |
-| ![Jetbrains](../Icons/jetbrains.svg) | Jetbrains          | A    |          |            |
+| ![Jetbrains](../Icons/jetbrains.svg) | Jetbrains | A |||
 |      | - Resharper        | A    |          |            |
 |      | - Rider            | B    |          |            |
 |      | - Fleet            | C    |          |            |
 |      | - IntelliJ IDEA    | B    |          |            |
 |      | - Webstorm         | B    |          |            |
 |      | - PyCharm          | B    |          |            |
-|      |                    |      |          |            |
-| ![Git](../Icons/git.svg) | Git                | S    |          |            |
+| ![Git](../Icons/git.svg) | Git | S |||
 |      | - GitHub           | S    |          |            |
 |      | - GitLab           | A    |          |            |
 |      | - BitBucket        | C    |          |            |
+
+[^1]: Icons from [https://devicon.dev/](https://devicon.dev/)
 
 ---
 

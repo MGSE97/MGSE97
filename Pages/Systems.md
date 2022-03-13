@@ -19,7 +19,7 @@ Ranks:
 
 ---
 
-| Icon | Type / Version | Rank | Usage    | My opinion |
+| Icon[^1] | Type / Version | Rank | Usage    | My opinion |
 |:----:|:---------------|:----:|:--------:|------------|
 | ![Windows](../Icons/win.svg) | Windows        | B    | Everyday |            |
 |      | - XP           | S    |          |            |
@@ -29,7 +29,6 @@ Ranks:
 |      | - 8.1          | C    |          |            |
 |      | - 10           | A    |          |            |
 |      | - 11           | C    |          |            |
-|      |                |      |          |            |
 | ![Linux](../Icons/linux.svg) | Linux          | B    | Servers  |            |
 |      | - Debian       | S    |          |            |
 |      | - Alpine       | A    |          |            |
@@ -39,10 +38,8 @@ Ranks:
 |      | - BackTrack    | A    |          |            |
 |      | - Parrot OS    | S    |          |            |
 |      | - Raspbian     | B    |          |            |
-|      |                |      |          |            |
 | ![MacOS](../Icons/apple.svg) | MacOS          | B    | At work  |            |
 |      | - 11 Big Sur   | B    |          |            |
-|      |                |      |          |            |
 | ![Android](../Icons/droid.svg) | Android        | B    | Everyday |            |
 |      | - 2.*          | C    |          |            |
 |      | - 3.*          | C    |          |            |
@@ -51,9 +48,10 @@ Ranks:
 |      | - 6.*          | B    |          |            |
 |      | - 11.*         | A    |          |            |
 |      | - 12.*         | A    |          |            |
-|      |                |      |          |            |
 | ![iOS](../Icons/apple.svg) | iOS            | C    | Tried    |            |
 |      | - 10           | C    |          |            |
+
+[^1]: Icons from [https://devicon.dev/](https://devicon.dev/)
 
 ---
 
