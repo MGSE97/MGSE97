@@ -59,13 +59,16 @@ Usage - first tried n years back / used for work projects n years (this doesn't 
 
 <h6 align="center">
     
- • &nbsp; [Profile](../README.md) &nbsp; •>
-Languages <• &nbsp;
-[Tech Stack](TechStack.md) &nbsp; • &nbsp;
-[Software](Software.md) &nbsp; • &nbsp; 
-[Operating Systems](Systems.md) &nbsp; • 
+ • &nbsp; [Profile](../README.md) &nbsp;
+ • &nbsp; [Tech Stack](TechStack.md) &nbsp;
+ • &nbsp; [Concepts](Concepts.md) &nbsp;
+ •>&nbsp; Languages &nbsp;<•
 </h6>
 <h6 align="center">
     
-[< Back to profile](../README.md) &nbsp;&nbsp; • &nbsp;&nbsp; <b><a href="https://github.com/MGSE97" target="_blank">MGSE97</a> ☕ 2016 ... 2022</b> &nbsp;&nbsp; • &nbsp;&nbsp; [Tech Stack >](TechStack.md)
+[< Concepts](Concepts.md)
+&nbsp;&nbsp; • &nbsp;&nbsp;
+<b><a href="https://github.com/MGSE97" target="_blank">MGSE97</a> ☕ 2016 ... 2022</b>
+&nbsp;&nbsp; • &nbsp;&nbsp;
+[Back to profile >](../Readme.md)
 </h6>
