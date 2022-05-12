@@ -70,5 +70,5 @@ Usage - first tried n years back / used for work projects n years (this doesn't 
 &nbsp;&nbsp; • &nbsp;&nbsp;
 <b><a href="https://github.com/MGSE97" target="_blank">MGSE97</a> ☕ 2016 ... 2022</b>
 &nbsp;&nbsp; • &nbsp;&nbsp;
-[Back to profile >](../Readme.md)
+[Back to profile >](../README.md)
 </h6>
