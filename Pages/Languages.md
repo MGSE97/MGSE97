@@ -4,7 +4,7 @@
 
 # Programming languages and related syntax
 
-Programming languages that I used. Categories are very simplified, just for formating reasons.
+Programming languages that I've used. Categories are very simplified, just for formating reasons.
 
 I had worked mostly in C#, TS & JS and Python.
 
