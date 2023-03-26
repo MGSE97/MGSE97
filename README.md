@@ -1,4 +1,4 @@
-<h1 align="center"> 🖖 Hello There, I'm MGSE </h1>
+<h1 align="center"> 🖖 Hello there, I'm MGSE </h1>
 
 ### Welcome to my GitHub profile. Enjoy your visit here, if you are brave enough.
 
