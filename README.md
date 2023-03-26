@@ -4,7 +4,7 @@
 
 🎯 I'm mainly full-stack web developer<br/>
 🌶 I worked with **ASP.NET** & **ASP.NET Core** for 4 years and I don't plan to stop<br/>
-🛰 But currently I'm exploring a wast space of **Express.js**, **React** & **Rust**<br/>
+🛰 Currently, I'm exploring a wast space of **Express.js**, **React** & **Rust**<br/>
 
 🥋 These are **personal projects** (usually ideas or for fun)<br/>
 📚 Most of them are school projects (graphics, machine learning, ... the fun stuff)<br/>
@@ -13,7 +13,7 @@
 
 📧 Fell free to contact me, if you need something. I won't bite usually. 🙂
 
-### What I use and my history with it
+### What I might know and use
 
  - [Tech Stack](Pages/TechStack.md)
  - [Concepts](Pages/Concepts.md)
