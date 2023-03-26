@@ -2,35 +2,44 @@
 
 ---
 
-# Principles, Workflows and Concepts
+# Concepts
 
-Working principles, technology workflows and concepts I've met.
+Programming concepts, integrations and patterns I've worked with.
 
-ToDo:
- - [ ] List Concepts
- - [ ] Crate tables
- - [ ] Add usages
+No preferences here, it's all painfull in the end.
 
-## Auth
-
-| Name | Knowledge | Pleasure | Usage |
-|:-------------------|:----|:--------|:----|
-
-JWT
-OAuth
-
-## Integrations
-
-CMS
-CMR
-Payments
-
-## Communication
-
-REST
-GraphQL
-gRPC
-Messaging
+```mermaid
+mindmap
+  root)Concepts(
+    {{Auth}}
+        ))Session((
+        ))JWT((
+        ))OAuth((
+            ))2.0(( 
+            ))2.1(( 
+    {{Integrations}}
+        ))CMS((
+        ))CMR((
+        ))Payment Gate((
+        ))Eshop((
+        ))Blog((
+    {{Communication}}
+        ))API((
+        ))REST((
+        ))GraphQL((
+        ))gRPC((
+        ))Web socket((
+        ))SSE((
+        ))Messaging((
+    {{Architecture}}
+        ))Patterns((
+        ))ORM((
+        ))Hexagonal((
+        ))Layered((
+        ))DDD((
+        ))TDD((
+        ))Microservices((
+```
 
 ---
 
@@ -46,7 +55,7 @@ Messaging
     
 [< Tech Stack](TechStack.md)
 &nbsp;&nbsp; • &nbsp;&nbsp;
-<b><a href="https://github.com/MGSE97" target="_blank">MGSE97</a> ☕ 2016 ... 2022</b>
+<b><a href="https://github.com/MGSE97" target="_blank">MGSE97</a> ☕ 2016 ... 2023</b>
 &nbsp;&nbsp; • &nbsp;&nbsp;
 [Languages >](Languages.md)
 </h6>
