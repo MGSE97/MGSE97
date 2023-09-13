@@ -19,8 +19,21 @@
  - [Concepts](Pages/Concepts.md)
  - [Languages](Pages/Languages.md)
 
-[![Rank](https://github-readme-stats.vercel.app/api?username=MGSE97&show_icons=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&custom_title=GitHub%20Stats%20%26%20Rank)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGSE97&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&card_width=280&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+### Flex area {
+
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy" title="Trophies">
+  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=MGSE97&no-frame=true&no-bg=true&column=8&theme=algolia">
+ </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Rank">
+  <img alt="rank" src="https://github-readme-stats.vercel.app/api?username=MGSE97&show_icons=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&custom_title=GitHub%20Stats%20%26%20Rank">
+ </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Langs">
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGSE97&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&card_width=280&layout=compact&langs_count=8">
+ </a>
+</p>
+
+### }
 
 ---
 <h6 align="center">
